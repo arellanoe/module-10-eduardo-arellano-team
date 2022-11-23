@@ -39,6 +39,6 @@ https://github.com/arellanoe/module-10-eduardo-arellano-team
 https://watch.screencastify.com/v/TYoWMKEQgUxOVFl9dztD
 
 ## HTML FILE
-Please refer to the dsit/ folder for the HTML generated with node
+Please refer to the dist/ folder for the HTML generated with node
 
 
