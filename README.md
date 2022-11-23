@@ -31,7 +31,7 @@ This application generates a teambuilder HTML with different employees and rolse
 
 ## Repository link
 
-https://github.com/arellanoe/module-9-eduardo-arellano-readme](https://github.com/arellanoe/module-10-eduardo-arellano-team
+https://github.com/arellanoe/module-10-eduardo-arellano-team
 
 
 ## Video Link
